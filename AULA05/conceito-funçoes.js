@@ -63,7 +63,7 @@ const numero=2;
 
     if (numero % 2 == 0){
         console.log(`O numero ${numero} é par`)
-} else {
+} else {h
 console.log(`O numero ${numero} é impar `)
 }
 
